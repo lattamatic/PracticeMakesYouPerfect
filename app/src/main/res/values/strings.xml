@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticeMakesYouPerfect</string>
+
+    <array name="listDialog">
+        <item> First item</item>
+        <item>Second item</item>
+        <item>Third item</item>
+    </array>
+
+    <array name="singleChoiceDialog">
+        <item>First choice</item>
+        <item>Second choice</item>
+        <item>Third choice</item>
+        <item>Fourth choice</item>
+    </array>
+
+</resources>
