@@ -26,6 +26,15 @@
         android:layout_centerHorizontal="true"
         android:id="@+id/RetrofitObject" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Retrofit Android Image"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/RetrofitObject"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/RetrofitImage" />
+
     <TextView
         android:id="@+id/text_id_1"
         android:layout_marginTop="150dp"
@@ -71,5 +80,11 @@
         android:layout_marginTop="90dp"
         android:id="@+id/text_marks_2"
         />
+
+
+    <ImageView
+        android:id="@+id/imageViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </RelativeLayout>
